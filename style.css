@@ -1,0 +1,47 @@
+/* style.css */
+
+.header {
+    color: rgb(133, 133, 143);    
+    font-weight: bold;
+}
+
+img {
+    height:auto;
+    width: 500px;
+    border-radius: 8px;
+}
+
+.description {
+    color: rgb(95, 95, 158);
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.ingredients {
+    color: rgb(3, 49, 90);
+    font-weight:800;
+}
+
+.stepss {
+    font-color: rgb(52, 21, 163);
+    font-weight: 100;
+}
+
+body {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.header-two {
+
+}
+
+a {
+    color:rgb(0, 71, 48);
+    font-weight: bold;
+}
+
+p,
+ul,
+ol {
+    color: rgb(0, 0, 75);
+}
